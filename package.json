@@ -1,0 +1,18 @@
+{
+  "name": "seeking_behavior",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "three": "^0.154.0",
+    "yuka": "^0.7.8"
+  }
+}
